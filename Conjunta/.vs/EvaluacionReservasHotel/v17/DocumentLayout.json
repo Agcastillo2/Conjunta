@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aange\\Videos\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58837CAE-CB1F-42E5-8421-A25D84F06DDB}|EvaluacionReservasHotel\\EvaluacionReservasHotel.csproj|c:\\users\\aange\\videos\\evaluacionreservashotel\\evaluacionreservashotel\\evaluacionreservashotel\\databasecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58837CAE-CB1F-42E5-8421-A25D84F06DDB}|EvaluacionReservasHotel\\EvaluacionReservasHotel.csproj|solutionrelative:evaluacionreservashotel\\databasecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58837CAE-CB1F-42E5-8421-A25D84F06DDB}|EvaluacionReservasHotel\\EvaluacionReservasHotel.csproj|c:\\users\\aange\\videos\\evaluacionreservashotel\\evaluacionreservashotel\\evaluacionreservashotel\\evaluacionreservashotel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{58837CAE-CB1F-42E5-8421-A25D84F06DDB}|EvaluacionReservasHotel\\EvaluacionReservasHotel.csproj|solutionrelative:evaluacionreservashotel\\evaluacionreservashotel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58837CAE-CB1F-42E5-8421-A25D84F06DDB}|EvaluacionReservasHotel\\EvaluacionReservasHotel.csproj|c:\\users\\aange\\videos\\evaluacionreservashotel\\evaluacionreservashotel\\evaluacionreservashotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58837CAE-CB1F-42E5-8421-A25D84F06DDB}|EvaluacionReservasHotel\\EvaluacionReservasHotel.csproj|solutionrelative:evaluacionreservashotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58837CAE-CB1F-42E5-8421-A25D84F06DDB}|EvaluacionReservasHotel\\EvaluacionReservasHotel.csproj|c:\\users\\aange\\videos\\evaluacionreservashotel\\evaluacionreservashotel\\evaluacionreservashotel\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58837CAE-CB1F-42E5-8421-A25D84F06DDB}|EvaluacionReservasHotel\\EvaluacionReservasHotel.csproj|solutionrelative:evaluacionreservashotel\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58837CAE-CB1F-42E5-8421-A25D84F06DDB}|EvaluacionReservasHotel\\EvaluacionReservasHotel.csproj|c:\\users\\aange\\videos\\evaluacionreservashotel\\evaluacionreservashotel\\evaluacionreservashotel\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{58837CAE-CB1F-42E5-8421-A25D84F06DDB}|EvaluacionReservasHotel\\EvaluacionReservasHotel.csproj|solutionrelative:evaluacionreservashotel\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58837CAE-CB1F-42E5-8421-A25D84F06DDB}|EvaluacionReservasHotel\\EvaluacionReservasHotel.csproj|c:\\users\\aange\\videos\\evaluacionreservashotel\\evaluacionreservashotel\\evaluacionreservashotel\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58837CAE-CB1F-42E5-8421-A25D84F06DDB}|EvaluacionReservasHotel\\EvaluacionReservasHotel.csproj|solutionrelative:evaluacionreservashotel\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58837CAE-CB1F-42E5-8421-A25D84F06DDB}|EvaluacionReservasHotel\\EvaluacionReservasHotel.csproj|c:\\users\\aange\\videos\\evaluacionreservashotel\\evaluacionreservashotel\\evaluacionreservashotel\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58837CAE-CB1F-42E5-8421-A25D84F06DDB}|EvaluacionReservasHotel\\EvaluacionReservasHotel.csproj|solutionrelative:evaluacionreservashotel\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58837CAE-CB1F-42E5-8421-A25D84F06DDB}|EvaluacionReservasHotel\\EvaluacionReservasHotel.csproj|c:\\users\\aange\\videos\\evaluacionreservashotel\\evaluacionreservashotel\\evaluacionreservashotel\\evaluacionreservashotel.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{58837CAE-CB1F-42E5-8421-A25D84F06DDB}|EvaluacionReservasHotel\\EvaluacionReservasHotel.csproj|solutionrelative:evaluacionreservashotel\\evaluacionreservashotel.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58837CAE-CB1F-42E5-8421-A25D84F06DDB}|EvaluacionReservasHotel\\EvaluacionReservasHotel.csproj|c:\\users\\aange\\videos\\evaluacionreservashotel\\evaluacionreservashotel\\evaluacionreservashotel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58837CAE-CB1F-42E5-8421-A25D84F06DDB}|EvaluacionReservasHotel\\EvaluacionReservasHotel.csproj|solutionrelative:evaluacionreservashotel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58837CAE-CB1F-42E5-8421-A25D84F06DDB}|EvaluacionReservasHotel\\EvaluacionReservasHotel.csproj|c:\\users\\aange\\videos\\evaluacionreservashotel\\evaluacionreservashotel\\evaluacionreservashotel\\controllers\\consultorioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58837CAE-CB1F-42E5-8421-A25D84F06DDB}|EvaluacionReservasHotel\\EvaluacionReservasHotel.csproj|solutionrelative:evaluacionreservashotel\\controllers\\consultorioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58837CAE-CB1F-42E5-8421-A25D84F06DDB}|EvaluacionReservasHotel\\EvaluacionReservasHotel.csproj|c:\\users\\aange\\videos\\evaluacionreservashotel\\evaluacionreservashotel\\evaluacionreservashotel\\controllers\\medicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58837CAE-CB1F-42E5-8421-A25D84F06DDB}|EvaluacionReservasHotel\\EvaluacionReservasHotel.csproj|solutionrelative:evaluacionreservashotel\\controllers\\medicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58837CAE-CB1F-42E5-8421-A25D84F06DDB}|EvaluacionReservasHotel\\EvaluacionReservasHotel.csproj|c:\\users\\aange\\videos\\evaluacionreservashotel\\evaluacionreservashotel\\evaluacionreservashotel\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58837CAE-CB1F-42E5-8421-A25D84F06DDB}|EvaluacionReservasHotel\\EvaluacionReservasHotel.csproj|solutionrelative:evaluacionreservashotel\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EvaluacionReservasHotel.csproj",
+              "DocumentMoniker": "C:\\Users\\aange\\Videos\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\EvaluacionReservasHotel.csproj",
+              "RelativeDocumentMoniker": "EvaluacionReservasHotel\\EvaluacionReservasHotel.csproj",
+              "ToolTip": "C:\\Users\\aange\\Videos\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\EvaluacionReservasHotel.csproj",
+              "RelativeToolTip": "EvaluacionReservasHotel\\EvaluacionReservasHotel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-24T03:07:44.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseController .cs",
+              "DocumentMoniker": "C:\\Users\\aange\\Videos\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\DatabaseController .cs",
+              "RelativeDocumentMoniker": "EvaluacionReservasHotel\\DatabaseController .cs",
+              "ToolTip": "C:\\Users\\aange\\Videos\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\DatabaseController .cs",
+              "RelativeToolTip": "EvaluacionReservasHotel\\DatabaseController .cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwGwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T02:48:46.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CitasController.cs",
+              "DocumentMoniker": "C:\\Users\\aange\\Videos\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\Controllers\\CitasController.cs",
+              "RelativeDocumentMoniker": "EvaluacionReservasHotel\\Controllers\\CitasController.cs",
+              "ToolTip": "C:\\Users\\aange\\Videos\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\Controllers\\CitasController.cs",
+              "RelativeToolTip": "EvaluacionReservasHotel\\Controllers\\CitasController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:26:44.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConsultoriosController.cs",
+              "DocumentMoniker": "C:\\Users\\aange\\Videos\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\Controllers\\ConsultoriosController.cs",
+              "RelativeDocumentMoniker": "EvaluacionReservasHotel\\Controllers\\ConsultoriosController.cs",
+              "ToolTip": "C:\\Users\\aange\\Videos\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\Controllers\\ConsultoriosController.cs",
+              "RelativeToolTip": "EvaluacionReservasHotel\\Controllers\\ConsultoriosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:23:12.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MedicosController.cs",
+              "DocumentMoniker": "C:\\Users\\aange\\Videos\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\Controllers\\MedicosController.cs",
+              "RelativeDocumentMoniker": "EvaluacionReservasHotel\\Controllers\\MedicosController.cs",
+              "ToolTip": "C:\\Users\\aange\\Videos\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\Controllers\\MedicosController.cs",
+              "RelativeToolTip": "EvaluacionReservasHotel\\Controllers\\MedicosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:21:30.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PacientesController.cs",
+              "DocumentMoniker": "C:\\Users\\aange\\Videos\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\Controllers\\PacientesController.cs",
+              "RelativeDocumentMoniker": "EvaluacionReservasHotel\\Controllers\\PacientesController.cs",
+              "ToolTip": "C:\\Users\\aange\\Videos\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\Controllers\\PacientesController.cs",
+              "RelativeToolTip": "EvaluacionReservasHotel\\Controllers\\PacientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:19:41.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\aange\\Videos\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "EvaluacionReservasHotel\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\aange\\Videos\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\WeatherForecast.cs",
+              "RelativeToolTip": "EvaluacionReservasHotel\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:14:48.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EvaluacionReservasHotel.http",
+              "DocumentMoniker": "C:\\Users\\aange\\Videos\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\EvaluacionReservasHotel.http",
+              "RelativeDocumentMoniker": "EvaluacionReservasHotel\\EvaluacionReservasHotel.http",
+              "ToolTip": "C:\\Users\\aange\\Videos\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\EvaluacionReservasHotel.http",
+              "RelativeToolTip": "EvaluacionReservasHotel\\EvaluacionReservasHotel.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-23T16:14:40.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\aange\\Videos\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\.env",
+              "RelativeDocumentMoniker": "EvaluacionReservasHotel\\.env",
+              "ToolTip": "C:\\Users\\aange\\Videos\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\.env",
+              "RelativeToolTip": "EvaluacionReservasHotel\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-21T17:17:47.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\aange\\Videos\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "EvaluacionReservasHotel\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\aange\\Videos\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\AppDBContext.cs",
+              "RelativeToolTip": "EvaluacionReservasHotel\\AppDBContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T02:13:46.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aange\\Videos\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\appsettings.json",
+              "RelativeDocumentMoniker": "EvaluacionReservasHotel\\appsettings.json",
+              "ToolTip": "C:\\Users\\aange\\Videos\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\appsettings.json",
+              "RelativeToolTip": "EvaluacionReservasHotel\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-23T16:14:37.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aange\\Videos\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\Program.cs",
+              "RelativeDocumentMoniker": "EvaluacionReservasHotel\\Program.cs",
+              "ToolTip": "C:\\Users\\aange\\Videos\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\EvaluacionReservasHotel\\Program.cs",
+              "RelativeToolTip": "EvaluacionReservasHotel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:38:11.249Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

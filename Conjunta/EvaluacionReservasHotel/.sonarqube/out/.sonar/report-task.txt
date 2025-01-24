@@ -1,0 +1,6 @@
+projectKey=EvaluacionPrueba2
+serverUrl=http://localhost:9000
+serverVersion=25.1.0.102122
+dashboardUrl=http://localhost:9000/dashboard?id=EvaluacionPrueba2
+ceTaskId=c5fbc7c8-5b7d-4341-adb6-55a815118639
+ceTaskUrl=http://localhost:9000/api/ce/task?id=c5fbc7c8-5b7d-4341-adb6-55a815118639
